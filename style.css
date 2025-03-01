@@ -75,6 +75,7 @@ button{
     border: 1px solid #999898;
     margin: auto;
     margin-top: 20px;
+    background: #fff;
 }
 
 .error{
